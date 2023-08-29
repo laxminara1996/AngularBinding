@@ -1,0 +1,20 @@
+.container{
+    background-color: red;
+text-align: center;
+}
+.contentPart{
+text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.classA{
+    color:purple;
+}
+.classB{
+    font-size:60PX;
+}
+.section1{
+    text-align: center;
+}
